@@ -20,3 +20,12 @@
 .borda-cor-especial {
     border-color: darkred;
 }
+
+.card-largura {
+    width: 18rem;
+}
+
+.imagem-card {
+    object-fit: cover;
+    height: 200px;
+}
